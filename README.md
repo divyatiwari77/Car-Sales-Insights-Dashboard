@@ -1,4 +1,4 @@
-🚗📊 𝗖𝗮𝗿 𝗦𝗮𝗹𝗲𝘀 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱
+#🚗📊 𝗖𝗮𝗿 𝗦𝗮𝗹𝗲𝘀 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱
 
 An interactive business intelligence dashboard for analyzing and tracking vehicle sales performance across regions, models, colors, and more—empowering dealerships, analysts, and execs to make data-driven decisions with ease.
 
