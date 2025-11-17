@@ -96,3 +96,5 @@ Replace these links with your GitHub image paths after uploading.
 This Car Sales Dashboard is not just a report—it's a powerful visual analytics tool 🔍 designed to uncover insights, drive sales, and elevate decision-making for stakeholders in the automotive sector. 🚘💡📊
 
 🛠️ Made with dedication and data... powered by coffee ☕ & Power BI
+
+Snapshot : [Dashboard Preview]()
