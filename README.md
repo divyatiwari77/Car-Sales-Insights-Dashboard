@@ -97,4 +97,4 @@ This Car Sales Dashboard is not just a report—it's a powerful visual analytics
 
 🛠️ Made with dedication and data... powered by coffee ☕ & Power BI
 
-Snapshot : [Dashboard Preview]()
+Snapshot : [Dashboard Preview(https://github.com/divyatiwari77/Car-Sales-Insights-Dashboard/blob/main/Screenshot%202025-11-17%20131956.png)]
